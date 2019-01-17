@@ -1,0 +1,55 @@
+body {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header {
+    /* background-color: #45B39C; */
+    background-color: #286859;
+    padding: 5px 15px;
+    overflow: auto;
+}
+
+#tv-image {
+    height: 100px;
+}
+
+#header-image {
+    float: left;
+    margin-top: 10px;
+}
+
+#header-title {
+    float: left;
+    margin-left: 20px;
+    color: antiquewhite;
+}
+
+.wrapper {
+    margin-top: 15px;
+}
+
+.search-panel {
+    margin-left: 50px;
+    padding: 10px;
+}
+
+.button-panel {
+    padding: 10px;
+    margin-left: 50px;
+}
+
+button {
+    padding: 5px;
+    margin: 0 5px;
+    font-size: 16px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+/* .gif-div {
+    float: left;
+    clear: both;
+}
+
+.gif-panel {
+    overflow: auto;
+} */
